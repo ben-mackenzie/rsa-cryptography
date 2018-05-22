@@ -20,6 +20,6 @@ Bugs or Implemented Test Cases; and, any theoretical follow-up
     A preliminary test message of 10 characters was used to build and test this program, 
     while a longer message with blank spaces and multiple cases was tested after.
   
-.  
-  Ben Mackenzie
-  Apr 12, 2018
+
+Ben Mackenzie
+Apr 12, 2018
