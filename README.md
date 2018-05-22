@@ -17,7 +17,7 @@ Output
 Bugs or Implemented Test Cases; and, any theoretical follow-up
 
     A preliminary test message of 10 characters was used to build and test this program, while a longer message with 
-    blank spaces and multiple cases was tested after.
+    blank spaces and multiple character cases was tested after.
   
 
 Ben Mackenzie - 
