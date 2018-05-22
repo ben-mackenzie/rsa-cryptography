@@ -24,7 +24,7 @@ import sys
 
 def driver():
     #definitions of e, p, q
-    inFile = Scanner("Kamilla2.txt")
+    inFile = Scanner("in.txt")
     ggg = inFile._next_str()  #e-
     e = inFile._next_int()
     ggg = inFile._next_str()  #p=
